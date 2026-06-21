@@ -1,0 +1,6 @@
+#nodemodules
+node_modules/
+
+#env
+.env
+.ev.example
